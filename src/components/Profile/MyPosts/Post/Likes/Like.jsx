@@ -8,14 +8,11 @@ const Like = (props) => {
    
     <div>
         <span>Likes</span>
-        
+
       {props.counts}
     </div>
     
-    // <div>
-    // 
-    // </div>
-
+    
   )
 }
 
