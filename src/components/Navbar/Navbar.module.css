@@ -1,0 +1,19 @@
+.nav {
+  grid-area: n;
+  background-color:floralwhite;
+}
+
+.item {
+  color:crimson
+}
+
+.item.active {
+  color:blueviolet
+
+}
+
+.item.proactive {
+  color:darkblue;
+  font-weight: bolder;
+  
+}
